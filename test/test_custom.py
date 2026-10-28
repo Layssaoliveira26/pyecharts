@@ -46,10 +46,8 @@ class TestCustom(unittest.TestCase):
 
     def test_custom_echarts_x_with_error(self):
         c = Custom()
-        try:
+        with self.assertRaises(ValueError):
             c.register_echarts_x(chart_type=ChartType.LINE)
-        except ValueError:
-            pass
 
     
     @patch("pyecharts.render.engine.write_utf8_html_file")
