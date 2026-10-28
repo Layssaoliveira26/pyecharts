@@ -84,6 +84,6 @@ class TestAMapChart(unittest.TestCase):
             )
         )
         data = amap.options.get("series")[0]["data"]
-        for item in data:
-            self.assertIn("name", item)
-            self.assertIn("value", item)
+        self.assertEqual(len(TEST_LOCATION), len(data), "número de itens de dados inválido")
+        self.assertIn("name", data[0])
+        self.assertIn("value", data[0])
