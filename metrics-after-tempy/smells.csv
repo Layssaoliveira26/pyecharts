@@ -1,0 +1,55 @@
+arquivo,smell,metodo,linhas
+test/test_bar.py,Conditional Test Logic,test_bar_item_show_label_line,58
+test/test_bar.py,Conditional Test Logic,test_bar_item_show_label_line,62
+test/test_calendar.py,Conditional Test Logic,test_calendar_base,18
+test/test_calendar.py,Conditional Test Logic,test_calendar_setting,47
+test/test_custom.py,Conditional Test Logic,test_custom_echarts_x,55
+test/test_datasets.py,Unknown Test,test_register_files,69
+test/test_datasets.py,Unknown Test,test_register_coords,72
+test/test_effectscatter.py,Conditional Test Logic,test_effectscatter_item_base,23
+test/test_exception.py,Unknown Test,test_geo_ignore_nonexistent_coord_exception,24
+test/test_exception.py,Unknown Test,test_bmap_ignore_nonexistent_coord_exception,81
+test/test_exception.py,Programming Paradigms Blend,(nível do módulo),7;11
+test/test_funnel.py,Conditional Test Logic,test_funnel_item_base,23
+test/test_gmap.py,Conditional Test Logic,test_gmap_heatmap,82
+test/test_graph.py,Conditional Test Logic,test_graph_base,20
+test/test_graph.py,Conditional Test Logic,test_graph_base,21
+test/test_graph.py,Conditional Test Logic,test_graph_draggable_and_symbol_size,102
+test/test_graph.py,Conditional Test Logic,test_graph_draggable_and_symbol_size,103
+test/test_graph.py,Conditional Test Logic,test_graph_edge_label_opts,122
+test/test_graph.py,Conditional Test Logic,test_graph_edge_label_opts,123
+test/test_grid.py,Conditional Test Logic,test_grid_set_grid_index_priority,176
+test/test_grid.py,Conditional Test Logic,test_grid_set_grid_out_of_order,190
+test/test_grid.py,Conditional Test Logic,test_grid_control_axis_index,201
+test/test_grid.py,Conditional Test Logic,test_grid_do_not_control_axis_index,208
+test/test_grid.py,Conditional Test Logic,test_grid_example_1,343
+test/test_grid.py,Conditional Test Logic,test_grid_multi_geo,635
+test/test_grid.py,Verbose Test,test_grid_with_more_datazoom_and_visualmap_opts,211;275
+test/test_grid.py,Verbose Test,test_grid_mutil_yaxis,420;596
+test/test_grid.py,Undefined Test,_chart_for_grid_v2,288
+test/test_kline.py,Conditional Test Logic,test_kline_item_base,45
+test/test_line3d.py,Conditional Test Logic,test_line3d_base,14
+test/test_lines3d.py,Conditional Test Logic,test_lines3d_base,23
+test/test_lmap.py,Programming Paradigms Blend,(nível do módulo),8;12
+test/test_map.py,Conditional Test Logic,test_map_item_base,28
+test/test_map3d.py,Verbose Test,test_map3d_with_bar3d,61;140
+test/test_map3d.py,Verbose Test,test_map3d_with_lines3d,143;194
+test/test_map3d.py,Verbose Test,test_map3d_with_line3d,197;248
+test/test_map3d.py,Verbose Test,test_map3d_with_scatter3d,251;330
+test/test_radar.py,Conditional Test Logic,test_radar_item_base,44
+test/test_radar.py,Programming Paradigms Blend,(nível do módulo),7;11
+test/test_scatter3d.py,Conditional Test Logic,test_scatter3d_base,15
+test/test_snapshot.py,Unknown Test,test_save_as_png,31
+test/test_snapshot.py,Unknown Test,test_save_as_text,35
+test/test_snapshot.py,Unknown Test,test_save_as,39
+test/test_snapshot.py,Programming Paradigms Blend,(nível do módulo),16;27
+test/test_surface3d.py,Conditional Test Logic,test_surface3d_base,14
+test/test_surface3d.py,Conditional Test Logic,test_surface3d_base,16
+test/test_surface3d.py,Conditional Test Logic,test_surface3d_base,18
+test/test_timeline.py,Conditional Test Logic,test_page_with_multi_axis,175
+test/test_timeline.py,Conditional Test Logic,test_timeline_with_3d_chart,199
+test/test_timeline.py,Programming Paradigms Blend,(nível do módulo),10;30
+test/test_timeline.py,Undefined Test,_assert_has_axis_and_color,169
+test/test_timeline.py,Undefined Test,_assert_has_3d_axes,192
+test/test_wordcloud.py,Exception Handling,test_wordcloud_error_url,37
+test/test_wordcloud.py,Programming Paradigms Blend,(nível do módulo),7;19

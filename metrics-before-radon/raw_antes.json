@@ -1,0 +1,1190 @@
+{
+  "pyecharts/exceptions.py": {
+    "loc": 15,
+    "lloc": 11,
+    "sloc": 11,
+    "comments": 0,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "pyecharts/faker.py": {
+    "loc": 102,
+    "lloc": 37,
+    "sloc": 91,
+    "comments": 0,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 0
+  },
+  "pyecharts/globals.py": {
+    "loc": 183,
+    "lloc": 203,
+    "sloc": 145,
+    "comments": 4,
+    "multi": 0,
+    "blank": 34,
+    "single_comments": 4
+  },
+  "pyecharts/types.py": {
+    "loc": 129,
+    "lloc": 97,
+    "sloc": 116,
+    "comments": 0,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 0
+  },
+  "pyecharts/_version.py": {
+    "loc": 2,
+    "lloc": 2,
+    "sloc": 2,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "pyecharts/__init__.py": {
+    "loc": 2,
+    "lloc": 2,
+    "sloc": 2,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "pyecharts/charts/base.py": {
+    "loc": 146,
+    "lloc": 97,
+    "sloc": 119,
+    "comments": 0,
+    "multi": 4,
+    "blank": 23,
+    "single_comments": 0
+  },
+  "pyecharts/charts/chart.py": {
+    "loc": 402,
+    "lloc": 147,
+    "sloc": 356,
+    "comments": 4,
+    "multi": 3,
+    "blank": 40,
+    "single_comments": 3
+  },
+  "pyecharts/charts/mixins.py": {
+    "loc": 25,
+    "lloc": 18,
+    "sloc": 18,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "pyecharts/charts/__init__.py": {
+    "loc": 51,
+    "lloc": 44,
+    "sloc": 44,
+    "comments": 4,
+    "multi": 0,
+    "blank": 3,
+    "single_comments": 4
+  },
+  "pyecharts/charts/basic_charts/amap.py": {
+    "loc": 91,
+    "lloc": 46,
+    "sloc": 77,
+    "comments": 1,
+    "multi": 4,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/bar.py": {
+    "loc": 123,
+    "lloc": 14,
+    "sloc": 112,
+    "comments": 0,
+    "multi": 5,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/bmap.py": {
+    "loc": 92,
+    "lloc": 47,
+    "sloc": 78,
+    "comments": 0,
+    "multi": 4,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/boxplot.py": {
+    "loc": 116,
+    "lloc": 37,
+    "sloc": 103,
+    "comments": 1,
+    "multi": 6,
+    "blank": 6,
+    "single_comments": 1
+  },
+  "pyecharts/charts/basic_charts/calendar.py": {
+    "loc": 62,
+    "lloc": 20,
+    "sloc": 49,
+    "comments": 0,
+    "multi": 6,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/chord.py": {
+    "loc": 74,
+    "lloc": 9,
+    "sloc": 62,
+    "comments": 0,
+    "multi": 7,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/custom.py": {
+    "loc": 139,
+    "lloc": 37,
+    "sloc": 120,
+    "comments": 0,
+    "multi": 5,
+    "blank": 14,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/effectscatter.py": {
+    "loc": 104,
+    "lloc": 16,
+    "sloc": 94,
+    "comments": 0,
+    "multi": 4,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/funnel.py": {
+    "loc": 115,
+    "lloc": 22,
+    "sloc": 101,
+    "comments": 0,
+    "multi": 8,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/gauge.py": {
+    "loc": 88,
+    "lloc": 13,
+    "sloc": 79,
+    "comments": 0,
+    "multi": 4,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/geo.py": {
+    "loc": 356,
+    "lloc": 122,
+    "sloc": 326,
+    "comments": 1,
+    "multi": 4,
+    "blank": 25,
+    "single_comments": 1
+  },
+  "pyecharts/charts/basic_charts/gmap.py": {
+    "loc": 77,
+    "lloc": 42,
+    "sloc": 64,
+    "comments": 0,
+    "multi": 4,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/graph.py": {
+    "loc": 141,
+    "lloc": 29,
+    "sloc": 128,
+    "comments": 0,
+    "multi": 4,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/heatmap.py": {
+    "loc": 98,
+    "lloc": 15,
+    "sloc": 87,
+    "comments": 0,
+    "multi": 6,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/kline.py": {
+    "loc": 94,
+    "lloc": 14,
+    "sloc": 82,
+    "comments": 0,
+    "multi": 7,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/line.py": {
+    "loc": 127,
+    "lloc": 22,
+    "sloc": 113,
+    "comments": 2,
+    "multi": 5,
+    "blank": 7,
+    "single_comments": 2
+  },
+  "pyecharts/charts/basic_charts/liquid.py": {
+    "loc": 65,
+    "lloc": 17,
+    "sloc": 54,
+    "comments": 0,
+    "multi": 4,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/lmap.py": {
+    "loc": 66,
+    "lloc": 38,
+    "sloc": 55,
+    "comments": 0,
+    "multi": 4,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/map.py": {
+    "loc": 126,
+    "lloc": 26,
+    "sloc": 113,
+    "comments": 0,
+    "multi": 4,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/parallel.py": {
+    "loc": 87,
+    "lloc": 26,
+    "sloc": 75,
+    "comments": 0,
+    "multi": 5,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/pictorialbar.py": {
+    "loc": 81,
+    "lloc": 12,
+    "sloc": 72,
+    "comments": 0,
+    "multi": 5,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/pie.py": {
+    "loc": 124,
+    "lloc": 30,
+    "sloc": 110,
+    "comments": 0,
+    "multi": 6,
+    "blank": 8,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/polar.py": {
+    "loc": 143,
+    "lloc": 31,
+    "sloc": 129,
+    "comments": 2,
+    "multi": 4,
+    "blank": 9,
+    "single_comments": 1
+  },
+  "pyecharts/charts/basic_charts/radar.py": {
+    "loc": 123,
+    "lloc": 27,
+    "sloc": 111,
+    "comments": 0,
+    "multi": 4,
+    "blank": 8,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/sankey.py": {
+    "loc": 92,
+    "lloc": 11,
+    "sloc": 82,
+    "comments": 0,
+    "multi": 6,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/scatter.py": {
+    "loc": 115,
+    "lloc": 25,
+    "sloc": 100,
+    "comments": 0,
+    "multi": 7,
+    "blank": 8,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/sunburst.py": {
+    "loc": 79,
+    "lloc": 14,
+    "sloc": 67,
+    "comments": 0,
+    "multi": 7,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/themeriver.py": {
+    "loc": 70,
+    "lloc": 14,
+    "sloc": 58,
+    "comments": 0,
+    "multi": 6,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/tree.py": {
+    "loc": 116,
+    "lloc": 24,
+    "sloc": 99,
+    "comments": 0,
+    "multi": 11,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/treemap.py": {
+    "loc": 97,
+    "lloc": 11,
+    "sloc": 88,
+    "comments": 0,
+    "multi": 5,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "pyecharts/charts/basic_charts/wordcloud.py": {
+    "loc": 140,
+    "lloc": 58,
+    "sloc": 115,
+    "comments": 2,
+    "multi": 8,
+    "blank": 15,
+    "single_comments": 2
+  },
+  "pyecharts/charts/basic_charts/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "pyecharts/charts/composite_charts/grid.py": {
+    "loc": 130,
+    "lloc": 84,
+    "sloc": 102,
+    "comments": 5,
+    "multi": 5,
+    "blank": 18,
+    "single_comments": 5
+  },
+  "pyecharts/charts/composite_charts/page.py": {
+    "loc": 221,
+    "lloc": 110,
+    "sloc": 191,
+    "comments": 3,
+    "multi": 3,
+    "blank": 27,
+    "single_comments": 0
+  },
+  "pyecharts/charts/composite_charts/tab.py": {
+    "loc": 164,
+    "lloc": 80,
+    "sloc": 138,
+    "comments": 5,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 5
+  },
+  "pyecharts/charts/composite_charts/timeline.py": {
+    "loc": 156,
+    "lloc": 34,
+    "sloc": 144,
+    "comments": 0,
+    "multi": 3,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "pyecharts/charts/composite_charts/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "pyecharts/charts/three_axis_charts/bar3D.py": {
+    "loc": 18,
+    "lloc": 9,
+    "sloc": 12,
+    "comments": 0,
+    "multi": 3,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "pyecharts/charts/three_axis_charts/graph_gl.py": {
+    "loc": 51,
+    "lloc": 14,
+    "sloc": 43,
+    "comments": 0,
+    "multi": 4,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "pyecharts/charts/three_axis_charts/line3D.py": {
+    "loc": 18,
+    "lloc": 9,
+    "sloc": 12,
+    "comments": 0,
+    "multi": 3,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "pyecharts/charts/three_axis_charts/lines3D.py": {
+    "loc": 66,
+    "lloc": 14,
+    "sloc": 59,
+    "comments": 0,
+    "multi": 3,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "pyecharts/charts/three_axis_charts/map3D.py": {
+    "loc": 242,
+    "lloc": 38,
+    "sloc": 234,
+    "comments": 0,
+    "multi": 3,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "pyecharts/charts/three_axis_charts/map_globe.py": {
+    "loc": 54,
+    "lloc": 25,
+    "sloc": 43,
+    "comments": 0,
+    "multi": 3,
+    "blank": 8,
+    "single_comments": 0
+  },
+  "pyecharts/charts/three_axis_charts/scatter3D.py": {
+    "loc": 18,
+    "lloc": 9,
+    "sloc": 12,
+    "comments": 0,
+    "multi": 3,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "pyecharts/charts/three_axis_charts/surface3D.py": {
+    "loc": 19,
+    "lloc": 10,
+    "sloc": 13,
+    "comments": 0,
+    "multi": 3,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "pyecharts/charts/three_axis_charts/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "pyecharts/commons/utils.py": {
+    "loc": 115,
+    "lloc": 74,
+    "sloc": 76,
+    "comments": 10,
+    "multi": 0,
+    "blank": 29,
+    "single_comments": 10
+  },
+  "pyecharts/commons/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "pyecharts/components/image.py": {
+    "loc": 56,
+    "lloc": 40,
+    "sloc": 46,
+    "comments": 1,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 1
+  },
+  "pyecharts/components/table.py": {
+    "loc": 63,
+    "lloc": 43,
+    "sloc": 53,
+    "comments": 1,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 1
+  },
+  "pyecharts/components/__init__.py": {
+    "loc": 2,
+    "lloc": 2,
+    "sloc": 2,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "pyecharts/datasets/__init__.py": {
+    "loc": 138,
+    "lloc": 88,
+    "sloc": 84,
+    "comments": 13,
+    "multi": 9,
+    "blank": 31,
+    "single_comments": 14
+  },
+  "pyecharts/options/charts_options.py": {
+    "loc": 1775,
+    "lloc": 380,
+    "sloc": 1608,
+    "comments": 2,
+    "multi": 0,
+    "blank": 165,
+    "single_comments": 2
+  },
+  "pyecharts/options/global_options.py": {
+    "loc": 2098,
+    "lloc": 279,
+    "sloc": 1969,
+    "comments": 2,
+    "multi": 0,
+    "blank": 127,
+    "single_comments": 2
+  },
+  "pyecharts/options/series_options.py": {
+    "loc": 561,
+    "lloc": 96,
+    "sloc": 512,
+    "comments": 0,
+    "multi": 0,
+    "blank": 49,
+    "single_comments": 0
+  },
+  "pyecharts/options/__init__.py": {
+    "loc": 156,
+    "lloc": 3,
+    "sloc": 154,
+    "comments": 1,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 1
+  },
+  "pyecharts/render/display.py": {
+    "loc": 86,
+    "lloc": 58,
+    "sloc": 72,
+    "comments": 0,
+    "multi": 0,
+    "blank": 14,
+    "single_comments": 0
+  },
+  "pyecharts/render/engine.py": {
+    "loc": 141,
+    "lloc": 86,
+    "sloc": 111,
+    "comments": 1,
+    "multi": 6,
+    "blank": 23,
+    "single_comments": 1
+  },
+  "pyecharts/render/snapshot.py": {
+    "loc": 99,
+    "lloc": 59,
+    "sloc": 72,
+    "comments": 3,
+    "multi": 4,
+    "blank": 20,
+    "single_comments": 3
+  },
+  "pyecharts/render/__init__.py": {
+    "loc": 1,
+    "lloc": 1,
+    "sloc": 1,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "pyecharts/scaffold/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "test/test_amap.py": {
+    "loc": 89,
+    "lloc": 37,
+    "sloc": 80,
+    "comments": 0,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "test/test_bar.py": {
+    "loc": 359,
+    "lloc": 151,
+    "sloc": 330,
+    "comments": 3,
+    "multi": 0,
+    "blank": 26,
+    "single_comments": 3
+  },
+  "test/test_bar3d.py": {
+    "loc": 83,
+    "lloc": 31,
+    "sloc": 77,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/test_base.py": {
+    "loc": 125,
+    "lloc": 89,
+    "sloc": 97,
+    "comments": 7,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 7
+  },
+  "test/test_bmap.py": {
+    "loc": 138,
+    "lloc": 54,
+    "sloc": 127,
+    "comments": 0,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 0
+  },
+  "test/test_boxplot.py": {
+    "loc": 94,
+    "lloc": 51,
+    "sloc": 85,
+    "comments": 0,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "test/test_calendar.py": {
+    "loc": 134,
+    "lloc": 41,
+    "sloc": 123,
+    "comments": 0,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 0
+  },
+  "test/test_chart.py": {
+    "loc": 250,
+    "lloc": 122,
+    "sloc": 229,
+    "comments": 1,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 1
+  },
+  "test/test_chart_options.py": {
+    "loc": 181,
+    "lloc": 90,
+    "sloc": 158,
+    "comments": 0,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 0
+  },
+  "test/test_chord.py": {
+    "loc": 48,
+    "lloc": 13,
+    "sloc": 44,
+    "comments": 0,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "test/test_custom.py": {
+    "loc": 74,
+    "lloc": 29,
+    "sloc": 69,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/test_datasets.py": {
+    "loc": 90,
+    "lloc": 55,
+    "sloc": 68,
+    "comments": 8,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 7
+  },
+  "test/test_display.py": {
+    "loc": 53,
+    "lloc": 31,
+    "sloc": 42,
+    "comments": 0,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 0
+  },
+  "test/test_effectscatter.py": {
+    "loc": 30,
+    "lloc": 22,
+    "sloc": 25,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/test_engine.py": {
+    "loc": 80,
+    "lloc": 42,
+    "sloc": 60,
+    "comments": 8,
+    "multi": 0,
+    "blank": 14,
+    "single_comments": 6
+  },
+  "test/test_exception.py": {
+    "loc": 100,
+    "lloc": 37,
+    "sloc": 89,
+    "comments": 0,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 0
+  },
+  "test/test_faker.py": {
+    "loc": 21,
+    "lloc": 14,
+    "sloc": 14,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "test/test_funnel.py": {
+    "loc": 33,
+    "lloc": 21,
+    "sloc": 28,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/test_gauge.py": {
+    "loc": 38,
+    "lloc": 25,
+    "sloc": 32,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/test_geo.py": {
+    "loc": 423,
+    "lloc": 108,
+    "sloc": 404,
+    "comments": 2,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 0
+  },
+  "test/test_globals.py": {
+    "loc": 20,
+    "lloc": 12,
+    "sloc": 12,
+    "comments": 3,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 3
+  },
+  "test/test_global_options.py": {
+    "loc": 503,
+    "lloc": 184,
+    "sloc": 460,
+    "comments": 2,
+    "multi": 0,
+    "blank": 41,
+    "single_comments": 2
+  },
+  "test/test_gmap.py": {
+    "loc": 85,
+    "lloc": 36,
+    "sloc": 76,
+    "comments": 0,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "test/test_graph.py": {
+    "loc": 137,
+    "lloc": 76,
+    "sloc": 127,
+    "comments": 0,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "test/test_graphic.py": {
+    "loc": 60,
+    "lloc": 28,
+    "sloc": 54,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/test_graph_gl.py": {
+    "loc": 63,
+    "lloc": 24,
+    "sloc": 58,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/test_grid.py": {
+    "loc": 647,
+    "lloc": 177,
+    "sloc": 609,
+    "comments": 0,
+    "multi": 0,
+    "blank": 38,
+    "single_comments": 0
+  },
+  "test/test_heatmap.py": {
+    "loc": 23,
+    "lloc": 15,
+    "sloc": 20,
+    "comments": 0,
+    "multi": 0,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "test/test_image.py": {
+    "loc": 43,
+    "lloc": 35,
+    "sloc": 34,
+    "comments": 0,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "test/test_kline.py": {
+    "loc": 79,
+    "lloc": 30,
+    "sloc": 72,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "test/test_line.py": {
+    "loc": 145,
+    "lloc": 57,
+    "sloc": 135,
+    "comments": 0,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "test/test_line3d.py": {
+    "loc": 38,
+    "lloc": 21,
+    "sloc": 35,
+    "comments": 0,
+    "multi": 0,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "test/test_lines3d.py": {
+    "loc": 110,
+    "lloc": 37,
+    "sloc": 101,
+    "comments": 0,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "test/test_liquid.py": {
+    "loc": 46,
+    "lloc": 23,
+    "sloc": 40,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/test_lmap.py": {
+    "loc": 64,
+    "lloc": 27,
+    "sloc": 57,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "test/test_map.py": {
+    "loc": 233,
+    "lloc": 36,
+    "sloc": 224,
+    "comments": 0,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 0
+  },
+  "test/test_map3d.py": {
+    "loc": 330,
+    "lloc": 55,
+    "sloc": 320,
+    "comments": 0,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "test/test_map_globe.py": {
+    "loc": 48,
+    "lloc": 30,
+    "sloc": 42,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/test_mixins.py": {
+    "loc": 24,
+    "lloc": 19,
+    "sloc": 18,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/test_page.py": {
+    "loc": 183,
+    "lloc": 112,
+    "sloc": 147,
+    "comments": 2,
+    "multi": 0,
+    "blank": 34,
+    "single_comments": 2
+  },
+  "test/test_parallel.py": {
+    "loc": 119,
+    "lloc": 31,
+    "sloc": 113,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/test_pictorialbar.py": {
+    "loc": 26,
+    "lloc": 11,
+    "sloc": 23,
+    "comments": 0,
+    "multi": 0,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "test/test_pie.py": {
+    "loc": 90,
+    "lloc": 30,
+    "sloc": 85,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/test_polar.py": {
+    "loc": 57,
+    "lloc": 30,
+    "sloc": 52,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/test_radar.py": {
+    "loc": 93,
+    "lloc": 32,
+    "sloc": 86,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "test/test_sankey.py": {
+    "loc": 71,
+    "lloc": 30,
+    "sloc": 66,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/test_scatter.py": {
+    "loc": 235,
+    "lloc": 57,
+    "sloc": 222,
+    "comments": 0,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 0
+  },
+  "test/test_scatter3d.py": {
+    "loc": 27,
+    "lloc": 15,
+    "sloc": 24,
+    "comments": 0,
+    "multi": 0,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "test/test_series_options.py": {
+    "loc": 205,
+    "lloc": 61,
+    "sloc": 190,
+    "comments": 0,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 0
+  },
+  "test/test_snapshot.py": {
+    "loc": 118,
+    "lloc": 79,
+    "sloc": 97,
+    "comments": 1,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 1
+  },
+  "test/test_sunburst.py": {
+    "loc": 61,
+    "lloc": 18,
+    "sloc": 56,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "test/test_surface3d.py": {
+    "loc": 42,
+    "lloc": 24,
+    "sloc": 38,
+    "comments": 0,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "test/test_tab.py": {
+    "loc": 98,
+    "lloc": 68,
+    "sloc": 79,
+    "comments": 0,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 0
+  },
+  "test/test_table.py": {
+    "loc": 51,
+    "lloc": 41,
+    "sloc": 41,
+    "comments": 0,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "test/test_themeriver.py": {
+    "loc": 27,
+    "lloc": 13,
+    "sloc": 24,
+    "comments": 0,
+    "multi": 0,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "test/test_timeline.py": {
+    "loc": 193,
+    "lloc": 57,
+    "sloc": 175,
+    "comments": 0,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 0
+  },
+  "test/test_tree.py": {
+    "loc": 60,
+    "lloc": 30,
+    "sloc": 54,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/test_treemap.py": {
+    "loc": 60,
+    "lloc": 28,
+    "sloc": 54,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "test/test_utils.py": {
+    "loc": 83,
+    "lloc": 53,
+    "sloc": 70,
+    "comments": 0,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 0
+  },
+  "test/test_wordcloud.py": {
+    "loc": 88,
+    "lloc": 48,
+    "sloc": 63,
+    "comments": 6,
+    "multi": 6,
+    "blank": 13,
+    "single_comments": 6
+  },
+  "test/__init__.py": {
+    "loc": 20,
+    "lloc": 12,
+    "sloc": 11,
+    "comments": 0,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 1
+  }
+}

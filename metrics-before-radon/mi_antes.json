@@ -1,0 +1,530 @@
+{
+  "pyecharts/exceptions.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/faker.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/globals.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/types.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/_version.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/base.py": {
+    "mi": 53.983885848897906,
+    "rank": "A"
+  },
+  "pyecharts/charts/chart.py": {
+    "mi": 37.684814687631835,
+    "rank": "A"
+  },
+  "pyecharts/charts/mixins.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/amap.py": {
+    "mi": 68.50954767080562,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/bar.py": {
+    "mi": 82.2498631462376,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/bmap.py": {
+    "mi": 65.1107553410308,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/boxplot.py": {
+    "mi": 60.525602934535684,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/calendar.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/chord.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/custom.py": {
+    "mi": 63.40462345777401,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/effectscatter.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/funnel.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/gauge.py": {
+    "mi": 83.56566740046058,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/geo.py": {
+    "mi": 38.665021857333514,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/gmap.py": {
+    "mi": 69.38721362557021,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/graph.py": {
+    "mi": 69.53581133135972,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/heatmap.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/kline.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/line.py": {
+    "mi": 72.72543131570559,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/liquid.py": {
+    "mi": 80.66009601922275,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/lmap.py": {
+    "mi": 71.62797129880965,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/map.py": {
+    "mi": 69.48425024194611,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/parallel.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/pictorialbar.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/pie.py": {
+    "mi": 71.36642902559319,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/polar.py": {
+    "mi": 70.74813377882337,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/radar.py": {
+    "mi": 74.03145880137897,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/sankey.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/scatter.py": {
+    "mi": 75.19709425286834,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/sunburst.py": {
+    "mi": 86.99616119349841,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/themeriver.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/tree.py": {
+    "mi": 74.27205668501159,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/treemap.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/wordcloud.py": {
+    "mi": 62.34351553896637,
+    "rank": "A"
+  },
+  "pyecharts/charts/basic_charts/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/composite_charts/grid.py": {
+    "mi": 52.91155528668871,
+    "rank": "A"
+  },
+  "pyecharts/charts/composite_charts/page.py": {
+    "mi": 45.7764973817043,
+    "rank": "A"
+  },
+  "pyecharts/charts/composite_charts/tab.py": {
+    "mi": 49.85243056885704,
+    "rank": "A"
+  },
+  "pyecharts/charts/composite_charts/timeline.py": {
+    "mi": 69.39021089212947,
+    "rank": "A"
+  },
+  "pyecharts/charts/composite_charts/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/three_axis_charts/bar3D.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/three_axis_charts/graph_gl.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/three_axis_charts/line3D.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/three_axis_charts/lines3D.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/three_axis_charts/map3D.py": {
+    "mi": 57.07882236262686,
+    "rank": "A"
+  },
+  "pyecharts/charts/three_axis_charts/map_globe.py": {
+    "mi": 79.17314278747943,
+    "rank": "A"
+  },
+  "pyecharts/charts/three_axis_charts/scatter3D.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/three_axis_charts/surface3D.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/charts/three_axis_charts/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/commons/utils.py": {
+    "mi": 61.56266185916422,
+    "rank": "A"
+  },
+  "pyecharts/commons/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/components/image.py": {
+    "mi": 62.68185157071586,
+    "rank": "A"
+  },
+  "pyecharts/components/table.py": {
+    "mi": 63.222613179155644,
+    "rank": "A"
+  },
+  "pyecharts/components/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/datasets/__init__.py": {
+    "mi": 65.54910456376642,
+    "rank": "A"
+  },
+  "pyecharts/options/charts_options.py": {
+    "mi": 18.41044630173774,
+    "rank": "B"
+  },
+  "pyecharts/options/global_options.py": {
+    "mi": 19.508408470612643,
+    "rank": "A"
+  },
+  "pyecharts/options/series_options.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/options/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/render/display.py": {
+    "mi": 43.29886753982495,
+    "rank": "A"
+  },
+  "pyecharts/render/engine.py": {
+    "mi": 53.617983709017274,
+    "rank": "A"
+  },
+  "pyecharts/render/snapshot.py": {
+    "mi": 61.81228461928463,
+    "rank": "A"
+  },
+  "pyecharts/render/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "pyecharts/scaffold/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_amap.py": {
+    "mi": 53.45333292210004,
+    "rank": "A"
+  },
+  "test/test_bar.py": {
+    "mi": 49.497386920847674,
+    "rank": "A"
+  },
+  "test/test_bar3d.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_base.py": {
+    "mi": 62.94685637946482,
+    "rank": "A"
+  },
+  "test/test_bmap.py": {
+    "mi": 47.523342880595166,
+    "rank": "A"
+  },
+  "test/test_boxplot.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_calendar.py": {
+    "mi": 49.707937836441054,
+    "rank": "A"
+  },
+  "test/test_chart.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_chart_options.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_chord.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_custom.py": {
+    "mi": 62.41643728801956,
+    "rank": "A"
+  },
+  "test/test_datasets.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_display.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_effectscatter.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_engine.py": {
+    "mi": 70.90490475469092,
+    "rank": "A"
+  },
+  "test/test_exception.py": {
+    "mi": 52.60006545428091,
+    "rank": "A"
+  },
+  "test/test_faker.py": {
+    "mi": 65.98925427669732,
+    "rank": "A"
+  },
+  "test/test_funnel.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_gauge.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_geo.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_globals.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_global_options.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_gmap.py": {
+    "mi": 53.7129021512506,
+    "rank": "A"
+  },
+  "test/test_graph.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_graphic.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_graph_gl.py": {
+    "mi": 52.59300249281863,
+    "rank": "A"
+  },
+  "test/test_grid.py": {
+    "mi": 37.11153677498455,
+    "rank": "A"
+  },
+  "test/test_heatmap.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_image.py": {
+    "mi": 60.76939275565254,
+    "rank": "A"
+  },
+  "test/test_kline.py": {
+    "mi": 56.88150433502518,
+    "rank": "A"
+  },
+  "test/test_line.py": {
+    "mi": 58.244563814133656,
+    "rank": "A"
+  },
+  "test/test_line3d.py": {
+    "mi": 55.40537403507975,
+    "rank": "A"
+  },
+  "test/test_lines3d.py": {
+    "mi": 54.82246327168442,
+    "rank": "A"
+  },
+  "test/test_liquid.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_lmap.py": {
+    "mi": 58.03600166837459,
+    "rank": "A"
+  },
+  "test/test_map.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_map3d.py": {
+    "mi": 55.209096977063766,
+    "rank": "A"
+  },
+  "test/test_map_globe.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_mixins.py": {
+    "mi": 66.69145540689941,
+    "rank": "A"
+  },
+  "test/test_page.py": {
+    "mi": 52.28542066474815,
+    "rank": "A"
+  },
+  "test/test_parallel.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_pictorialbar.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_pie.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_polar.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_radar.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_sankey.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_scatter.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_scatter3d.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_series_options.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_snapshot.py": {
+    "mi": 54.49196038468942,
+    "rank": "A"
+  },
+  "test/test_sunburst.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_surface3d.py": {
+    "mi": 54.88178901706466,
+    "rank": "A"
+  },
+  "test/test_tab.py": {
+    "mi": 54.07384525405929,
+    "rank": "A"
+  },
+  "test/test_table.py": {
+    "mi": 59.13592557174533,
+    "rank": "A"
+  },
+  "test/test_themeriver.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_timeline.py": {
+    "mi": 46.89352310776294,
+    "rank": "A"
+  },
+  "test/test_tree.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_treemap.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "test/test_utils.py": {
+    "mi": 52.89687286417783,
+    "rank": "A"
+  },
+  "test/test_wordcloud.py": {
+    "mi": 80.35636116536871,
+    "rank": "A"
+  },
+  "test/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  }
+}
